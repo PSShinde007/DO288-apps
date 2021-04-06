@@ -20,7 +20,7 @@
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 
 		<!-- Thorntail dependency versions -->
-		<version.thorntail>2.4.0.Final</version.thorntail>
+		<version.thorntail>2.5.0.Final</version.thorntail>
 
 		<!-- other plugin versions -->
 		<version.compiler.plugin>3.1</version.compiler.plugin>
